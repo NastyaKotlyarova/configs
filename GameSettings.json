@@ -1,0 +1,5 @@
+{
+  "gaEvent": "http://sandbox-api.gameanalytics.com/v2/5c6bcb5402204249437fb5a7a80a4959/events",
+  "gaEventChangeType": "http://sandbox-api.gameanalytics.com/v2/5c6bcb5402204249437fb5a7a80a4959/events",
+  "gaEventCheck": "http://sandbox-api.gameanalytics.com/v2/5c6bcb5402204249437fb5a7a80a4959/events"
+}
